@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @suhaasram
 - 👀 I’m interested in Collaborating with Experts and learn new aspects
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, Kafka
 - 💞️ I’m looking to collaborate on Front End Projects
-- 📫 How to reach me over my phone/ Email-ID
+- 📫 Reach me over Email-ID suhaasramesh@outlook.com
 
 <!---
 suhaasram/suhaasram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
